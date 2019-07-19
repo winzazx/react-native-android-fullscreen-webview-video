@@ -36,5 +36,6 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
+    compile 'com.reactnativecommunity:react-native-webview:+'
     testCompile 'junit:junit:4.12'
 }
