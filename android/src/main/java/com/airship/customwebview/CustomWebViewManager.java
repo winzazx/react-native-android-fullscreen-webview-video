@@ -52,11 +52,11 @@ import com.facebook.react.uimanager.annotations.ReactProp;
 import com.facebook.react.uimanager.events.ContentSizeChangeEvent;
 import com.facebook.react.uimanager.events.Event;
 import com.facebook.react.uimanager.events.EventDispatcher;
-import com.facebook.react.views.webview.WebViewConfig;
-import com.facebook.react.views.webview.events.TopLoadingErrorEvent;
-import com.facebook.react.views.webview.events.TopLoadingFinishEvent;
-import com.facebook.react.views.webview.events.TopLoadingStartEvent;
-import com.facebook.react.views.webview.events.TopMessageEvent;
+import com.reactnativecommunity.webview.WebViewConfig;
+import com.reactnativecommunity.webview.events.TopLoadingErrorEvent;
+import com.reactnativecommunity.webview.events.TopLoadingFinishEvent;
+import com.reactnativecommunity.webview.events.TopLoadingStartEvent;
+import com.reactnativecommunity.webview.events.TopMessageEvent;
 
 import org.json.JSONObject;
 import org.json.JSONException;
